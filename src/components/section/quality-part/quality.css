@@ -1,0 +1,24 @@
+.quality-card{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.quality-icon{
+    width: 35px;
+    height: auto;
+}
+.text-part{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.text-part h4{
+    font-size: 18px;
+    color: #3a3a3a;
+    margin: 0;
+}
+.text-part p{
+    color: #898989;
+    font-size: 15px;
+    margin-top: 5px;
+}

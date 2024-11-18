@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%201.png?alt=media&token=9dcd644c-9aef-4013-90e0-58dc8f726d69",
+      "title": "Syltherine",
+      "description": "Stylish cafe chair",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 250
+    },
+    {
+      "id": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%202.png?alt=media&token=583ad462-4a4b-4634-800e-f0290112eb2e",
+      "title": "Leviosa",
+      "description": "Stylish cafe chair",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 250
+    },
+    {
+      "id": "3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%203.png?alt=media&token=5d26fba7-78bb-4c1a-b349-861d03cbc74a",
+      "title": "Lolito",
+      "description": "Luxury big sofa",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 700
+    },
+    {
+      "id": "4",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%204.png?alt=media&token=83b90deb-7a4c-4777-807f-154b1351baee",
+      "title": "Respira",
+      "description": "Minimalist fan",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 500
+    },
+    {
+      "id": "5",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%206.png?alt=media&token=87dac71c-7531-42fb-83b0-737c78de44c2",
+      "title": "Grifo",
+      "description": "Night lamp",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 150
+    },
+    {
+      "id": "6",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%207.png?alt=media&token=c069b38b-75de-4e48-b5af-e1fd539204cb",
+      "title": "Muggo",
+      "description": "Small mug",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 15
+    },
+    {
+      "id": "7",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%208.png?alt=media&token=2d0b8679-fbf5-4fe0-a8f1-e03d908ea6bf",
+      "title": "Pingky",
+      "description": "Cute bed set",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": 700
+    },
+    {
+      "id": "8",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fruits-a13b6.appspot.com/o/furnitures%2Fimage%209.png?alt=media&token=f0ee2391-9bfc-40eb-b6e9-f0a4dc9972a2",
+      "title": "Potty",
+      "description": "Minimalist flower pot",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet et, ipsa neque odit perspiciatis possimus quasi recusandae reiciendis ut! Accusamus aliquam eos esse eveniet excepturi minus omnis, quo temporibus ullam voluptates. Adipisci cumque ea ipsum laboriosam nemo tempore vel.",
+      "price": "50"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+button{
+    padding: 5px;
+    border: none;
+    background: none;
+    color: #3A3A3A;
+    font-size: 16px;
+    display: flex;
+    margin: 12px 18px 0px 18px;
+    transition: 0.2s;
+}
+button i{
+    margin-left: 10px;
+}
+button:hover{
+    color: #E89F71;
+}
